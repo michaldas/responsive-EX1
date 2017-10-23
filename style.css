@@ -1,0 +1,14 @@
+
+body{
+    font-size:5px;
+}
+.small{
+  font-size:2em;  
+}
+.medium{
+    font-size:4em;  
+    
+}
+.large{
+    font-size:6em;  
+}
